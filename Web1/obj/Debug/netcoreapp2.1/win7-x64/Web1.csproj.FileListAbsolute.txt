@@ -1,0 +1,17 @@
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.csproj.CoreCompileInputs.cache
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.AssemblyInfoInputs.cache
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.AssemblyInfo.cs
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.exe
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.deps.json
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.runtimeconfig.json
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.runtimeconfig.dev.json
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.dll
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.pdb
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.csprojAssemblyReference.cache
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.RazorAssemblyInfo.cache
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.RazorAssemblyInfo.cs
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.RazorTargetAssemblyInfo.cache
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.dll
+F:\BIZRUNTIME\Practice\ServiceFabric\Application3\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.pdb
